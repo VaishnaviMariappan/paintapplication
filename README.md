@@ -224,7 +224,7 @@ document
 ```
 ## OUTPUT:
 
-![output](./output.png)
+![output](./output0.png)
 ![output](./output1.png)
 
 ## Result:
